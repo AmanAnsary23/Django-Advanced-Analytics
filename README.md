@@ -74,4 +74,5 @@ Nested Serializers - Complex order creation with order items
 
 <img width="437" height="292" alt="Screenshot 2025-10-28 010802" src="https://github.com/user-attachments/assets/d532ee11-c056-4778-9cf5-610b554d1f32" />
 
-
+Note: 
+    There is some issue with jwt Authantication so i baipass this , Sorry 
