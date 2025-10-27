@@ -72,16 +72,6 @@ Nested Serializers - Complex order creation with order items
 
 📁 Project Structure
 
-django-analytics-api/
-├── analytics/
-│   ├── models.py          # Database models
-│   ├── serializers.py     # DRF serializers
-│   ├── views.py           # API views & analytics
-│   ├── urls.py            # URL routes
-│   └── tests.py           # Test cases
-├── analytics_project/
-│   └── settings.py        # Configuration
-├── requirements.txt       # Dependencies
-└── README.md             # Documentation
+<img width="437" height="292" alt="Screenshot 2025-10-28 010802" src="https://github.com/user-attachments/assets/d532ee11-c056-4778-9cf5-610b554d1f32" />
 
 
